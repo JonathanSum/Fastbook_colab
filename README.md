@@ -4,4 +4,4 @@ Thanks for http://muellerzr.github.io/ for building walkthru for fastai on fasta
 The denpedacy will also use his solution and adding some of my solution to make things work.
 
 
-Lesson2, notebook: My data_set: https://drive.google.com/file/d/1k3k-KcCLNhJS-xuQFzAA0SJK5iS1F-Zh/view?usp=sharing
+The dataset was used in lesson2: https://drive.google.com/file/d/1k3k-KcCLNhJS-xuQFzAA0SJK5iS1F-Zh/view?usp=sharing
